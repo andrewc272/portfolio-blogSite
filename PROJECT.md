@@ -27,4 +27,24 @@ Before we get to designing I looked through several porfolios and I wanted to no
 - I liked illistraitons and the graphics
 - when the information on the tab made sense
 
+### What elements should I have?
+
+I also want to research what elements are most important and a whole list of all of the elements a recruiter wants to see on someone's resume/portfolio.
+
+#### According to chatGPT
+
+1. Work Experiance
+1. Technical Skills
+1. Projects
+1. Education
+1. Readability/preveiwability
+1. GitHub/ Code samples
+1. Website
+1. Other work contract/internship/freelance
+1. certificaitons/bootcamps/courses
+1. soft skills and communication
+
+Although there is a little bit of fluff in here I think this will do for now because I am early career I plan to really lean into a porfolio technical skills and educaiton but I will attempt to include a littl bit of all of these elements.
+
+
  
