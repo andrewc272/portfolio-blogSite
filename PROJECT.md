@@ -4,7 +4,7 @@
 
 Over the course of my college years I have applied for many jobs and haven't gotten even many interviews. I have decided I want to make a change this summer 2025 is the the summer I get a job. It will require more work than I've ever put into it before. This is the first step in this process I have a linktree and have used other tools to help people find me and connect around my online presence. But making a website is something I have been wantign to do but haven't yet gotten around to doing. A website will make for a first look into the projects I have built and in and of itself be a good portfolio piece to show off my coding skills. I plan to host different projects I build on the website and to show off my resume with a variety of different certifications and work experiance. I also want to make a blog post every day this summer writing about different things and taking about the whole process. If this doesn't work I don't know what will.
 
-## Part 1: research
+## Part 1: theResearch
 
 Before we get to designing I looked through several porfolios and I wanted to note what I liked about some and what I didn't like about others so I can get an idea of what I want to add to mine. 
 
@@ -45,6 +45,10 @@ I also want to research what elements are most important and a whole list of all
 1. soft skills and communication
 
 Although there is a little bit of fluff in here I think this will do for now because I am early career I plan to really lean into a porfolio technical skills and educaiton but I will attempt to include a littl bit of all of these elements.
+
+## Part 2: theDesign
+
+Now is the time to come up with a design. In order to do this process I will try to think of 10 different wireframes that I can quickly sketch out. then I will get some opinions from others on which design they think is best and run each through the elements i learned from research to come up with a final 2 designs. I will then create simple templates of the design in something like figma or toddle and then do further testing to finalize the design.
 
 
  
