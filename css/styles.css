@@ -1,0 +1,12 @@
+html, body {
+	height: 100%;
+	margin: 0;
+	scroll-behavior: smooth;
+	overflow-y: scroll;
+	scroll-snap-type: y mandatory;
+}
+
+.page {
+	height: 100vh;
+	scroll-snap-align: start;
+}
