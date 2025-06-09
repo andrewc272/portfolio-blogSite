@@ -10,3 +10,19 @@ html, body {
 	height: 100vh;
 	scroll-snap-align: start;
 }
+
+.title {
+	height: 100%;
+	width: 100%;
+	display: flex;
+	justify-content: flex-start;
+	align-items: flex-end;
+	background: #eee;
+	padding: 0rem;
+}
+
+.bottom-left {
+	font-size: clamp(1rem, 5vw, 8rem);
+	margin: 5rem;
+}
+
