@@ -14,14 +14,15 @@ html, body {
 .title {
 	height: 100%;
 	width: 100%;
-	display: flex;
 	justify-content: flex-start;
 	align-items: flex-end;
-	background: #eee;
+	display: flex;
 	padding: 0rem;
 }
 
 .bottom-left {
+	color: #ba55d3;
+	font-family:'Lucida Console', monospace;
 	font-size: clamp(2rem, 5vw, 8rem);
 	margin: clamp(1rem, 5vw, 5rem);
 	margin-bottom: 5rem;
