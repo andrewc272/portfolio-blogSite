@@ -22,7 +22,7 @@ html, body {
 }
 
 .bottom-left {
-	font-size: clamp(1rem, 5vw, 8rem);
+	font-size: clamp(3rem, 5vw, 8rem);
 	margin: 5rem;
 }
 
