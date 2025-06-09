@@ -23,6 +23,6 @@ html, body {
 
 .bottom-left {
 	font-size: clamp(2rem, 5vw, 8rem);
-	margin: 5rem;
+	margin: clamp(1rem, 5vw, 5rem);
 }
 
